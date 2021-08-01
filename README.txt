@@ -1,0 +1,1 @@
+Hello! This is a directory created to explore people analytics, including data science specific modelling techniques. It will first follow the Handbook of Regression Modeling in People Analytics by Keith McNulty found here <!https://peopleanalytics-regression-book.org/>. 
