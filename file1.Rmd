@@ -1,0 +1,18 @@
+---
+title: "Untitled"
+author: "Christian Okoth"
+date: "9/29/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(reticulate)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown with Python
+In [this]() article, we see that the `reticulate` package 
+```{python }
+
+```
+
